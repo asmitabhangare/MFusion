@@ -1,2 +1,2 @@
-
-![readme](https://github.com/asmitabhangare/MFusion/assets/74359226/a916d6a0-0df5-47ca-8cc2-9286e4553c16)
+## Built an interactive periodic table that showcases the elements in a visually stunning and engaging manner.
+Stack used : HTML,CSS, JavaScript
